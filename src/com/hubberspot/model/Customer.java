@@ -5,6 +5,7 @@ public class Customer {
  private String firstName; 
  private String lastName; 
  private String emailAddress;
+ private String hello;
  
  public Customer() {  
   firstName = "";
