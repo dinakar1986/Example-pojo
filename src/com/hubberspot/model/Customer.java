@@ -6,6 +6,7 @@ public class Customer {
  private String lastName; 
  private String emailAddress;
  private String hello;
+ private String example;
  
  public Customer() {  
   firstName = "";
